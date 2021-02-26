@@ -1,6 +1,6 @@
 # paredit
 
-a library for editing lisp (or at least clojure) code
+a library for editing lisp code
 
 ## rationale
 
