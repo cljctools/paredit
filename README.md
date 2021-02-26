@@ -10,5 +10,6 @@ a library for editing lisp code
 
 ## existing libs
 
+- https://github.com/emacsmirror/paredit/blob/master/paredit.el
 - https://github.com/rksm/paredit.js
 - https://github.com/BetterThanTomorrow/calva
