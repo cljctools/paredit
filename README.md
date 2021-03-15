@@ -2,6 +2,12 @@
 
 a library for editing lisp code
 
+## ALREADY SOLVED
+
+- https://github.com/clj-commons/rewrite-clj
+- https://cljdoc.org/d/rewrite-clj/rewrite-clj/1.0.579-alpha/api/rewrite-clj.paredit
+- https://github.com/clj-commons/rewrite-clj/blob/v1.0.579-alpha/src/rewrite_clj/paredit.cljc
+
 ## rationale
 
 - to be used by https://github.com/cljctools/mult
