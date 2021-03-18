@@ -2,7 +2,7 @@
 
 a library for editing lisp code
 
-## ALREADY SOLVED
+## already solved
 
 - https://github.com/clj-commons/rewrite-clj
 - https://cljdoc.org/d/rewrite-clj/rewrite-clj/1.0.579-alpha/api/rewrite-clj.paredit
