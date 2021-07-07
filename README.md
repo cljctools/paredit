@@ -2,6 +2,8 @@
 
 a library for editing lisp code
 
+[merged into https://github.com/cljctools/cljctools]
+
 ## already solved
 
 - https://github.com/clj-commons/rewrite-clj
