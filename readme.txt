@@ -1,16 +1,16 @@
-paredit
+# paredit
 
 a library for editing lisp code
 
 [merged into https://github.com/cljctools/cljctools]
 
-rationale
+## rationale
 
 - to be used by https://github.com/cljctools/mult
-- should be .cljc code runnable on jvm, nodejs, browser
+- should be `.cljc` code runnable on jvm, nodejs, browser
 - should be also usable from js and jvm via https://github.com/cljctools/deps-tool
 
-existing libs
+## existing libs
 
 - https://github.com/clj-commons/rewrite-clj
 - https://cljdoc.org/d/rewrite-clj/rewrite-clj/1.0.579-alpha/api/rewrite-clj.paredit
