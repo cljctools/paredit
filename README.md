@@ -4,12 +4,6 @@ a library for editing lisp code
 
 [merged into https://github.com/cljctools/cljctools]
 
-## already solved
-
-- https://github.com/clj-commons/rewrite-clj
-- https://cljdoc.org/d/rewrite-clj/rewrite-clj/1.0.579-alpha/api/rewrite-clj.paredit
-- https://github.com/clj-commons/rewrite-clj/blob/v1.0.579-alpha/src/rewrite_clj/paredit.cljc
-
 ## rationale
 
 - to be used by https://github.com/cljctools/mult
@@ -17,6 +11,10 @@ a library for editing lisp code
 - should be also usable from js and jvm via https://github.com/cljctools/deps-tool
 
 ## existing libs
+
+- https://github.com/clj-commons/rewrite-clj
+- https://cljdoc.org/d/rewrite-clj/rewrite-clj/1.0.579-alpha/api/rewrite-clj.paredit
+- https://github.com/clj-commons/rewrite-clj/blob/v1.0.579-alpha/src/rewrite_clj/paredit.cljc
 
 - https://github.com/emacsmirror/paredit/blob/master/paredit.el
 - https://github.com/rksm/paredit.js
